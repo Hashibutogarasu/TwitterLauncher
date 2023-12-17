@@ -1,0 +1,4 @@
+# TwitterLauncher
+
+x.comとかfxtwitterとかvxtwitterとかのURLを踏んだ時に毎回ブラウザを介してTwitterが開くのはいいものの、タブが残ってしまうのが煩わしいので
+無理やりURLスキームに対応させただけのアプリ

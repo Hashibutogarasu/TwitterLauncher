@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwitterLauncher</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fxtwitter.com">fxtwitter.com</string>
+    <string name="vxtwitter.com">vxtwitter.com</string>
+    <string name="x.com">x.com</string>
+</resources>
